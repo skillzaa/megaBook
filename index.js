@@ -1,0 +1,1 @@
+console.log("Some jvascript is always healthy");
